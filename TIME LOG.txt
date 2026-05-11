@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+Kalani >> website tested
+       >> Checked previous test report for verification
+       >> Checked Admin 
+
+
+INKA :- Check title length of all products and checked breadcrumb sequence of all products and reverified the report
+
+Mondo lux :- Completed task
+
+Ship Bac :- >>Task completed 
+            >>validated Breadcrumbs
+            >>Identified URL from live website that weren't available on stage (Count 1)
+            >> website checked  on desktop and mobile (functionality and UI)
+			(Total issues reported 3)
+
+
+Sita Pura :- checked complete website 
+           
+
+Exo Travel :- checked the website and functionality errors reported (Count 4)
+
+W3 care :- Check complete website backend 
+           Functionality and UI
+		   count (1)
+		   
+socialdocumentary :- 200 URLs images checked 
+					 (total Error 4)
+
+
+Primus :- UI and functionality tested 
+          2 issued fond
+		 
+AAsSUN:- verified structure with live web site 
+			  Checked broken links
+			  checked funtionalty
+			  total issues reported 5
+			  
+
+1tick :- Checked old and upgraded site
+
+
+Prometric :- Checked website 
+         Total issues 3
+		 
+SBMFA :- checked website and completed tasks
+
+VIVA :- website checked on desktop and mobile
+        (Issues Reported 5)
+
+Morton Stone :- checked page with Admin 
+
+pranav constructions :- checked website functionality and broken links
+
+
+Desegregation Website Maintenance: Michelle :- Website checked on mobile and desktopn
+
+
+VIVA :- Checked functionality
+
+Apno Ka Bima :- functionality and ui checked with broken links and header
+                (Issue reported 9)
+
+Just Magnificent :- checked website 
+                    functionality, Ui & UX
+					(issues reported 9)
