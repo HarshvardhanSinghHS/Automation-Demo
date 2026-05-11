@@ -1,0 +1,130 @@
+URL,Status,Type,Category,Element,Response Time (ms),Error,Anchor Text,Schema,Target,Rel,Checked
+"https://justmagnificent.com/",200,html,link,a,1953,"","",https,,,Yes
+"javascript:void(0)",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","",http,,,Yes
+"https://justmagnificent.com/home",200,html,link,a,1641,"","",https,,,Yes
+"https://justmagnificent.com/destination/detail/agra",200,html,link,a,1555,"","Agra",https,,,Yes
+"https://justmagnificent.com/destination/detail/auli",200,html,link,a,1727,"","Auli",https,,,Yes
+"https://justmagnificent.com/destination/detail/banaras",200,html,link,a,1591,"","Banaras",https,,,Yes
+"https://justmagnificent.com/destination/detail/chakrata",200,html,link,a,1827,"","Chakrata",https,,,Yes
+"https://justmagnificent.com/destination/detail/delhi",200,html,link,a,1691,"","Delhi",https,,,Yes
+"https://justmagnificent.com/destination/detail/kashmir",200,html,link,a,1573,"","Kashmir",https,,,Yes
+"https://justmagnificent.com/destination/detail/kinnaur-spiti-lahaul",200,html,link,a,1612,"","Kinnaur, Spiti & Lahaul",https,,,Yes
+"https://justmagnificent.com/destination/detail/ladakh",200,html,link,a,1688,"","Ladakh",https,,,Yes
+"https://justmagnificent.com/destination/detail/tirthan",200,html,link,a,1578,"","Tirthan",https,,,Yes
+"https://justmagnificent.com/destination/detail/udaipur",200,html,link,a,1492,"","Udaipur",https,,,Yes
+"javascript:void(0);",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","South Asia",http,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/shimla/",200,html,link,a,1464,"","Shimla",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/dalhousie/",200,html,link,a,1475,"","Dalhousie",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/mcleodganj/",200,html,link,a,1424,"","McLeod Ganj",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/manali/",200,html,link,a,1391,"","Manali",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/tirthan/",200,html,link,a,1410,"","Tirthan",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/himachal-pradesh/kinnaur-spiti-lahaul/",200,html,link,a,1452,"","Kinnaur, Spiti & Lahaul",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/punjab/amritsar/",200,html,link,a,1368,"","Amritsar",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttar-pradesh/agra/",200,html,link,a,1566,"","Agra",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttar-pradesh/banaras/",200,html,link,a,1483,"","Banaras",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/rishikesh/",200,html,link,a,1393,"","Rishikesh",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/chakrata/",200,html,link,a,1421,"","Chakrata",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/mussoorie/",200,html,link,a,1324,"","Mussoorie",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/nainital/",200,html,link,a,1275,"","Nainital",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/ranikhet/",200,html,link,a,1458,"","Ranikhet",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/kausani/",200,html,link,a,1562,"","Kausani",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/munsiyari/",200,html,link,a,1733,"","Munsiyari",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/uttarakhand/auli/",200,html,link,a,1412,"","Auli",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/ladakh/",200,html,link,a,1761,"","Ladakh",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/kashmir/",200,html,link,a,1653,"","Kashmir",https,,,Yes
+"https://justmagnificent.com/asia/india/north-zone/delhi/",200,html,link,a,1887,"","Delhi",https,,,Yes
+"https://justmagnificent.com/asia/india/north-east/sikkim/",200,html,link,a,1773,"","Sikkim",https,,,Yes
+"https://justmagnificent.com/asia/india/north-east/meghalaya/",200,html,link,a,2080,"","Meghalaya",https,,,Yes
+"https://justmagnificent.com/asia/india/north-east/darjeeling/",200,html,link,a,1987,"","Darjeeling",https,,,Yes
+"https://justmagnificent.com/asia/india/north-east/arunachal-pradesh/",200,html,link,a,2265,"","Arunachal Pradesh",https,,,Yes
+"https://justmagnificent.com/asia/india/east/",404,html,link,a,1750,"","East",https,,,Yes
+"https://justmagnificent.com/asia/india/south-zone/pondicherry/",200,html,link,a,1917,"","Pondicherry",https,,,Yes
+"https://justmagnificent.com/asia/india/south-zone/kerala/",200,html,link,a,1922,"","Kerala",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/goa/",200,html,link,a,1626,"","Goa",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/jaipur/",200,html,link,a,1450,"","Jaipur",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/jaisalmer/",200,html,link,a,1234,"","Jaisalmer",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/jodhpur/",200,html,link,a,1136,"","Jodhpur",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/pushkar/",200,html,link,a,1155,"","Pushkar",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/ranthambore/",200,html,link,a,1080,"","Ranthambore",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/udaipur/",200,html,link,a,1174,"","Udaipur",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/bundi/",200,html,link,a,1155,"","Bundi",https,,,Yes
+"https://justmagnificent.com/asia/india/west-zone/rajasthan/shekhawati/",200,html,link,a,1241,"","Shekhawati",https,,,Yes
+"https://justmagnificent.com/asia/india/central-zone/madhya-pradesh/mandu/",200,html,link,a,1305,"","Mandu",https,,,Yes
+"https://justmagnificent.com/asia/india/central-zone/madhya-pradesh/maheshwar/",200,html,link,a,1461,"","Maheshwar",https,,,Yes
+"https://justmagnificent.com/asia/india/central-zone/madhya-pradesh/khajuraho/",200,html,link,a,1356,"","Khajuraho",https,,,Yes
+"https://justmagnificent.com/asia/india/central-zone/madhya-pradesh/orchha/",200,html,link,a,1147,"","Orchha",https,,,Yes
+"https://justmagnificent.com/destination/detail/east",200,html,link,a,1442,"","East",https,,,Yes
+"https://justmagnificent.com/destination/detail/pondicherry",200,html,link,a,1542,"","Pondicherry",https,,,Yes
+"https://justmagnificent.com/destination/detail/orchha",200,html,link,a,1596,"","Orchha",https,,,Yes
+"https://justmagnificent.com/destination/detail/khajuraho",200,html,link,a,1546,"","Khajuraho",https,,,Yes
+"https://justmagnificent.com/experience/adventure",200,html,link,a,1645,"","Adventure",https,,,Yes
+"https://justmagnificent.com/experience/all-women-travel",200,html,link,a,1655,"","All Women Travel",https,,,Yes
+"https://justmagnificent.com/experience/art-craft",200,html,link,a,1856,"","Art & Craft",https,,,Yes
+"https://justmagnificent.com/experience/corporate-offsite",200,html,link,a,1961,"","Corporate Offsite",https,,,Yes
+"https://justmagnificent.com/experience/culture-heritage",200,html,link,a,1756,"","Culture & Heritage",https,,,Yes
+"https://justmagnificent.com/experience/hills",200,html,link,a,1776,"","Hills",https,,,Yes
+"https://justmagnificent.com/experience/road-trips",200,html,link,a,1867,"","Road Trips",https,,,Yes
+"https://justmagnificent.com/experience/rural-sojourns",200,html,link,a,1711,"","Rural Sojourns",https,,,Yes
+"https://justmagnificent.com/experience/wellness",200,html,link,a,1533,"","Wellness & Fitness",https,,,Yes
+"https://justmagnificent.com/experience/wildlife",200,html,link,a,1572,"","Wildlife",https,,,Yes
+"https://justmagnificent.com/experience/youth",200,html,link,a,1681,"","Youth",https,,,Yes
+"https://justmagnificent.com/upcoming",200,html,link,a,1715,"","Upcoming Tours",https,,,Yes
+"https://justmagnificent.com/popular-tours",200,html,link,a,2818,"","Recommended Tours",https,,,Yes
+"https://justmagnificent.com/about-us",200,html,link,a,1624,"","About Us",https,,,Yes
+"https://justmagnificent.com/gallery",200,html,link,a,1586,"","Gallery",https,,,Yes
+"https://justmagnificent.com/blogs",200,html,link,a,1457,"","Blogs",https,,,Yes
+"https://justmagnificent.com/media",200,html,link,a,1218,"","Media",https,,,Yes
+"https://justmagnificent.com/contact",200,html,link,a,1533,"","Contact Us",https,,,Yes
+"https://www.facebook.com/magnificentexperience",200,html,link,a,475,"","",https,_blank,,Yes
+"https://www.instagram.com/magnificentexperiences/",200,html,link,a,451,"","",https,_blank,,Yes
+"https://in.linkedin.com/in/surendermagnificent",405,html,link,a,779,"","",https,_blank,,Yes
+"https://justmagnificent.com/destination/detail/mussoorie",200,html,link,a,1393,"","Mussoorie",https,_blank,,Yes
+"https://justmagnificent.com/destination/detail/rishikesh",200,html,link,a,1421,"","Rishikesh",https,_blank,,Yes
+"https://justmagnificent.com/customize-tour-request/chakrata",200,html,link,a,1973,"","Enquire Now",https,_blank,,Yes
+"mailto:enquire@justmagnificent.com",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","enquire@justmagnificent.com",http,,,Yes
+"tel:99288 62099",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","+91 99288 62099",http,,,Yes
+"tel:90241 50502",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","+91 90241 50502",http,,,Yes
+"https://www.w3care.com/",200,html,link,a,370,"","W3care Technologies Pvt. Ltd.",https,_blank,,Yes
+"https://justmagnificent.com/terms-service",200,html,link,a,1764,"","Terms of Service",https,,,Yes
+"https://justmagnificent.com/privacy-policy",200,html,link,a,1640,"","Privacy Policy",https,,,Yes
+"https://justmagnificent.com//img/subscriber-pop-up-bg.webp",200,image,media,img,36,"","",https,,,Yes
+"https://justmagnificent.com/img/loader.gif",200,image,media,img,47,"","Justmagnificent",https,,,Yes
+"https://justmagnificent.com/img/logo-min.png",200,image,media,img,32,"","logo",https,,,Yes
+"https://justmagnificent.com/img/logo-dark-min.png",200,image,media,img,39,"","logo",https,,,Yes
+"https://justmagnificent.com//img/logo-min.png",200,image,media,img,34,"","",https,,,Yes
+"https://justmagnificent.com/images/uploads/dummy.jpg",200,image,media,img,37,"","East",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/destination/2.JPG",200,image,media,img,38,"","Pondicherry",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/destination/ORCHA1.jpg",200,image,media,img,33,"","Orchha",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/destination/KHJR8.jpg",200,image,media,img,35,"","Khajuraho",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/experience/ANC10.jpg",200,image,media,img,54,"","Art & Craft",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/experience/RT4.jpg",200,image,media,img,35,"","Road Trips",https,,,Yes
+"https://justmagnificent.com/assets/css/select2.min.css",200,css,style,link[stylesheet],37,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/jquery.fancybox.min.css",200,css,style,link[stylesheet],35,"","stylesheet",https,,stylesheet,Yes
+"https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css",200,css,style,link[stylesheet],74,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/swiper-bundle.min.css",200,css,style,link[stylesheet],38,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/bootstrap.min.css",200,css,style,link[stylesheet],72,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/animate.min.css",200,css,style,link[stylesheet],45,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/style.css",200,css,style,link[stylesheet],52,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/css/style.css",200,css,style,link[stylesheet],47,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/responsive.css",200,css,style,link[stylesheet],48,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/css/owl.carousel.min.css",200,css,style,link[stylesheet],37,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/css/flexslider.css",200,css,style,link[stylesheet],35,"","stylesheet",https,,stylesheet,Yes
+"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css",200,css,style,link[stylesheet],55,"","stylesheet",https,,stylesheet,Yes
+"https://justmagnificent.com/assets/js/jquery-3.6.0.min.js",200,javascript,script,script,40,"","script",https,,,Yes
+"https://maps.googleapis.com/maps-api-v3/api/js/64/11d/common.js",200,javascript,script,script,75,"","text/javascript",https,,,Yes
+"https://maps.googleapis.com/maps-api-v3/api/js/64/11d/util.js",200,javascript,script,script,18,"","text/javascript",https,,,Yes
+"https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js",200,javascript,script,script,50,"","script",https,,,Yes
+"https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js",200,javascript,script,script,41,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/flexslider.js",200,javascript,script,script,38,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/bootstrap.bundle.min.js",200,javascript,script,script,39,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/chain_fade.js",200,javascript,script,script,36,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/owl.carousel.min.js",200,javascript,script,script,39,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/swiper-bundle.min.js",200,javascript,script,script,46,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/jquery.fancybox.min.js",200,javascript,script,script,44,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/select2.min.js",200,javascript,script,script,42,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/jquery-ui.js",200,javascript,script,script,41,"","script",https,,,Yes
+"https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js",200,javascript,script,script,18,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/main.js",200,javascript,script,script,34,"","script",https,,,Yes
+"https://justmagnificent.com/assets/js/contact-form.js",200,javascript,script,script,41,"","script",https,,,Yes
+"https://maps.googleapis.com/maps/api/js?key=AIzaSyAVCXvLq1TO0B5bdubkG0ujUXgCyM4TnLE&callback=myMap",404,javascript,script,script,92,"","script",https,,,Yes
+"https://justmagnificent.com/themes/user/site/default/asset/img/home/favicon.ico",200,meta,media,link[icon],44,"","favicon",https,,icon,Yes

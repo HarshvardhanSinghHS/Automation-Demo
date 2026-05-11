@@ -1,0 +1,60 @@
+URL,Status,Type,Category,Element,Response Time (ms),Error,Anchor Text,Schema,Target,Rel,Checked
+"https://apnokabima.com/",408,html,link,a,10016,"Request timeout","",https,,,Yes
+"https://apnokabima.com/product/1-crore-term-insurance#",200,html,link,a,4109,"","Products",https,,,Yes
+"https://apnokabima.com/product/two-wheeler-insurance",200,html,link,a,6201,"","Two Wheeler Insurance",https,,,Yes
+"https://apnokabima.com/product/car-insurance",200,html,link,a,4842,"","Car Insurance",https,,,Yes
+"https://apnokabima.com/product/goods-carrying-vehicle",200,html,link,a,5665,"","Goods Carrying Vehicle",https,,,Yes
+"https://apnokabima.com/product/passenger-carrying-vehicle",200,html,link,a,4295,"","Passenger Carrying Vehicle",https,,,Yes
+"https://apnokabima.com/product/misc-d",200,html,link,a,4123,"","Misc-D",https,,,Yes
+"https://apnokabima.com/product/term-insurance",200,html,link,a,3302,"","Term Insurance",https,,,Yes
+"https://apnokabima.com/product/group-term-insurance",200,html,link,a,3286,"","Group Term Insurance",https,,,Yes
+"https://apnokabima.com/product/1-crore-term-insurance",200,html,link,a,5059,"","1 Crore Term Insurance",https,,,Yes
+"https://apnokabima.com/product/individual-health-insurance",408,html,link,a,10004,"Request timeout","Individual Health Insurance",https,,,Yes
+"https://apnokabima.com/product/family-health-insurance",408,html,link,a,10013,"Request timeout","Family Health Insurance",https,,,Yes
+"https://apnokabima.com/product/personal-accident-insurance",200,html,link,a,3770,"","Personal Accident Insurance",https,,,Yes
+"https://apnokabima.com/product/group-health-insurance",200,html,link,a,2608,"","Group Health Insurance",https,,,Yes
+"https://apnokabima.com/product/group-personal-accident-insurance",200,html,link,a,2535,"","Group Personal Accident Insurance",https,,,Yes
+"https://apnokabima.com/product/senior-citizen-health-insurance",200,html,link,a,3732,"","Senior Citizen Health Insurance",https,,,Yes
+"https://apnokabima.com/product/cancer-insurance",200,html,link,a,4611,"","Cancer Insurance",https,,,Yes
+"https://apnokabima.com/product/critical-illness-insurance",200,html,link,a,3571,"","Critical illness Insurance",https,,,Yes
+"https://apnokabima.com/product/individual-travel-insurance",200,html,link,a,4864,"","Individual Travel Insurance",https,,,Yes
+"https://apnokabima.com/product/family-travel-insurance",200,html,link,a,4303,"","Family Travel Insurance",https,,,Yes
+"https://apnokabima.com/product/student-travel-insurance",200,html,link,a,3383,"","Student Travel Insurance",https,,,Yes
+"https://apnokabima.com/renew-your-policy/motor-insurance",200,html,link,a,5833,"","Motor Insurance",https,,,Yes
+"https://apnokabima.com/renew-your-policy/life-insurance",200,html,link,a,3342,"","Life insurance",https,,,Yes
+"https://apnokabima.com/renew-your-policy/health-insurance",200,html,link,a,5043,"","Health Insurance",https,,,Yes
+"https://apnokabima.com/file-claim",200,html,link,a,4006,"","File a Claim",https,,,Yes
+"https://apnokabima.com/product/1-crore-term-insurance#myModal",200,html,link,a,2584,"","Get Quote",https,,,Yes
+"https://apnokabima.com/contact",408,html,link,a,10015,"Request timeout","Contact Us",https,,,Yes
+"https://apnokabima.com/about",200,html,link,a,7357,"","About us",https,,,Yes
+"https://apnokabima.com/why-choose-us",200,html,link,a,3274,"","Why us",https,,,Yes
+"https://apnokabima.com/career",200,html,link,a,3878,"","Career",https,,,Yes
+"https://apnokabima.com/gallery",200,html,link,a,1580,"","Gallery",https,,,Yes
+"https://www.facebook.com/apnokabima",200,html,link,a,448,"","",https,_blank,,Yes
+"https://www.youtube.com/@apnokabimainsurance",200,html,link,a,611,"","",https,_blank,,Yes
+"https://www.instagram.com/apno_ka_bima/",200,html,link,a,379,"","",https,_blank,,Yes
+"https://www.linkedin.com/in/apno-ka-bima-insurance-specialist/",405,html,link,a,442,"","",https,_blank,,Yes
+"https://apnokabima.com/blogs",200,html,link,a,2755,"","Blogs",https,,,Yes
+"https://apnokabima.com/faq",200,html,link,a,2585,"","FAQ",https,,,Yes
+"mailto:info@apnokabima.com",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","info@apnokabima.com",http,,,Yes
+"tel:9090803131",not-checkable,html,link,a,,"Cannot verify - not HTTP(S) link","+91 9090803131",http,,,Yes
+"https://www.w3care.com/",200,html,link,a,370,"","W3Care Technologies",https,_blank,noopener noreferrer,Yes
+"https://apnokabima.com/uploads/images/logo.png",200,image,media,img,315,"","Logo",https,,,Yes
+"https://apnokabima.com/uploads/images/car-insurance.webp",200,image,media,img,351,"","menu-icon",https,,,Yes
+"https://apnokabima.com/uploads/images/Life-insurance_%282%29.webp",200,image,media,img,328,"","menu-icon",https,,,Yes
+"https://apnokabima.com/uploads/images/Health-Insurance_%283%29.webp",200,image,media,img,368,"","menu-icon",https,,,Yes
+"https://apnokabima.com/uploads/images/Travel.webp",200,image,media,img,323,"","menu-icon",https,,,Yes
+"https://apnokabima.com/uploads/images/image.jfif",200,image,media,img,321,"","1 Crore Term Insurance",https,,,Yes
+"https://apnokabima.com/uploads/images/1-cr_%281%29.png",200,image,media,img,334,"","Overview",https,,,Yes
+"https://apnokabima.com/css/googleapis.css",200,css,style,link[stylesheet],352,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/assets/bootstrap-icons/bootstrap-icons.css",200,css,style,link[stylesheet],415,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/assets/bootstrap-icons/fonts/bootstrap-icons.woff2",200,css,style,link[stylesheet],362,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/lib/owlcarousel/assets/owl.carousel.min.css",200,css,style,link[stylesheet],353,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/css/bootstrap.min.css",200,css,style,link[stylesheet],359,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/css/style.css",200,css,style,link[stylesheet],330,"","stylesheet",https,,stylesheet,Yes
+"https://apnokabima.com/js/jquery-3.6.4.min.js",200,javascript,script,script,346,"","script",https,,,Yes
+"https://apnokabima.com/js/bootstrap.bundle.min.js",200,javascript,script,script,331,"","script",https,,,Yes
+"https://apnokabima.com/lib/owlcarousel/owl.carousel.min.js",200,javascript,script,script,338,"","script",https,,,Yes
+"https://apnokabima.com/assets/js/custom-scripts.js",200,javascript,script,script,395,"","script",https,,,Yes
+"https://apnokabima.com/uploads/images/favicon-32x32.webp",200,meta,media,link[icon],304,"","favicon",https,,icon,Yes
+"https://apnokabima.com/index.php/product/1-crore-term-insurance",200,form,action,form,1378,"","form",https,,,Yes
